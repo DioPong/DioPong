@@ -1,5 +1,7 @@
 # Hi, here is DioPong. Glad to see you !
 
+> Less is more, more is less !
+
 ## My Statics: 
 
 - Software Engineering  Undergraduate Student.
@@ -21,8 +23,6 @@
 
 - Blog: [https://blog.2to.fun/](https://blog.2to.fun/)
 
-  - RSS feed: [https://blog.2to.fun/rss2.xml](https://blog.2to.fun/rss2.xml)
-
-- Onedrive-Cloudflare: [https://disk.2to.fun/](https://disk.2to.fun/)
+- RSS: [https://blog.2to.fun/rss2.xml](https://blog.2to.fun/rss2.xml)
 
 🖥 *I love Programming, I will appreciate it if you like to contact me!*
